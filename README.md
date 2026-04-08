@@ -42,10 +42,10 @@ The dataset consists of multiple tables:
 ---
 
 ## 📊 Key KPIs
-- **Total Customers:** 2509  
-- **Retention Rate:** 68%  
-- **Exited Customers:** 814  
-- **Active Members %:** 50%  
+- **Total Customers:** 10000  
+- **Retention Rate:** 80%  
+- **Exited Customers:** 2037 
+- **Active Members %:** 52%  
 
 ---
 
